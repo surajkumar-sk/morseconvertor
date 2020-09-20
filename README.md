@@ -14,13 +14,13 @@ now this repository is cloned in that folder .
 
 You can convert Morse code to English text and vise versa by 
 
-**running the morseconverter.py 
+**running the morseconverter.py **
 
 or
 
 **importing decoder.py and encoder.py
 into your python file making it as a functionality in your code by calling its 
-class .
+class .**
 
 Read futher on Who To do those .
 
@@ -96,11 +96,11 @@ the class take three parameters as Strings
                  
 ## For Converting from English To Morse Code
 
-**import encoder as encoder
+**import encoder as encoder**
 
 then call its class as an object like 
 
-**encoder.encoder("FileOrString" , "FileLocationOrStringValue" , "FileOrStringToOutput")
+**encoder.encoder("FileOrString" , "FileLocationOrStringValue" , "FileOrStringToOutput")**
 
 the class take three parameters as Strings 
 
@@ -116,6 +116,7 @@ the class take three parameters as Strings
 
                          pass "String" if you want the output to be returned as a string which can be saved in a variable .
                          this will return a string so make sure you create object inside a variable like TextValue = encoder.encoder("string","Funwithcodes","string")
+
 
 
 
