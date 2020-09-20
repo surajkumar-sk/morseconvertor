@@ -6,7 +6,7 @@ import decoder as decoder
 
 morsecode = morse.morsecode
 
-print(type(morsecode["b"]))
+
 
 # A Function for converting text to morse code
 
