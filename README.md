@@ -14,7 +14,7 @@ now this repository is cloned in that folder .
 
 You can convert Morse code to English text and vise versa by 
 
-**running the morseconverter.py **
+**running the morseconverter.py**
 
 or
 
