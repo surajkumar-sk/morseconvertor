@@ -68,7 +68,7 @@ You would need decoder.py to Convert Morse Code to English Text and encoder.py t
 
 To add it in you code import those files as modules in your code 
 
-make sure you have that file in the same folder as of the python file you are importing it in .
+make sure you have that file in the same folder as of the python file you are importing it in or specify the python file path during import.
 
 ## For Converting from Morse Code To English
 
